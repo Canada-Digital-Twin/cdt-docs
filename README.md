@@ -1,22 +1,22 @@
-# Nextra Docs Template 
+# Canada's Digital Twin Platform
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+A web-based system for visualization and interaction of multi-scale geospatial information.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+[**View Documentation →**](https://canada-digital-twin.vercel.app)
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+[![](.github/screenshot.png)](https://canada-digital-twin.vercel.app)
 
 ## Quick Start
 
-Click the button to clone this repository and deploy it on Vercel:
+Click the button to clone Canada's Digital Twin platform repository and deploy it on Vercel:
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fcanada-digital-twin%2Fplatform&showOptionalTeamCreation=false)
 
 ## Local Development
 
-First, run `pnpm i` to install the dependencies.
+First, run `npm install` to install the dependencies.
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+Then, run `npm run dev` to start the development server and visit localhost:3000.
 
 ## License
 
