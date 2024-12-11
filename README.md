@@ -4,8 +4,6 @@ A web-based system for visualization and interaction of multi-scale geospatial i
 
 [**View Documentation →**](https://canada-digital-twin.vercel.app)
 
-
-
 ## Local Development
 
 First, run `npm install` to install the dependencies.
